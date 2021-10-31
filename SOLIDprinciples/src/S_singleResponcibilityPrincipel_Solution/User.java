@@ -1,4 +1,4 @@
-package com.itbulls.learnit.javacore.oop.solid.s.solution;
+package S_singleResponcibilityPrincipel_Solution;
 
 public class User {
 
